@@ -1,0 +1,20 @@
+#banner{
+    width: 50%;
+}
+.caixa{
+    position: relative;
+    width: 940px;
+    right: 0 auto;
+}
+header{
+    background: #CCCCCC;
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 15px; /*espasçamento*/
+}
+nav a{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
